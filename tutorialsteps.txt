@@ -1,0 +1,32 @@
+
+                   CodingEntrepreneurs (Youtube) teaching steps
+        1.  
+        2.
+        3.
+        4i. Django Models (GET data from models, using JsonResponse)
+        4ii. Django Models (GET Data from models, using Rest Framework View & Response)
+        5.  Django Rest Framework Model Serializers       
+        6. POST - Insert data with Djangi Rest Framework views
+        7. Django Rest Framework Generics RetrieveAPIView 
+        8. Django Rest Framework Generics CreateAPIView 
+        9. Django Rest Framework Generics ListAPIView & ListCreateAPIView 
+        10. Using Function Based Views For Create Retrieve or List 
+    ----------- Generic view over function based view
+        11. UpdateAPIView & DestroyAPIView
+  
+        9. Django Rest Framework Generics ListAPIView & ListCreateAPIView 
+  
+        9. Django Rest Framework Generics ListAPIView & ListCreateAPIView 
+  
+        9. Django Rest Framework Generics ListAPIView & ListCreateAPIView 
+  
+        9. Django Rest Framework Generics ListAPIView & ListCreateAPIView 
+  
+        9. Django Rest Framework Generics ListAPIView & ListCreateAPIView 
+  
+        9. Django Rest Framework Generics ListAPIView & ListCreateAPIView 
+  
+        9. Django Rest Framework Generics ListAPIView & ListCreateAPIView 
+  
+        9. Django Rest Framework Generics ListAPIView & ListCreateAPIView 
+ 
