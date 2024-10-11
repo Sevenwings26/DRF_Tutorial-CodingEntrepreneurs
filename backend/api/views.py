@@ -2,7 +2,6 @@ from django.http import JsonResponse, HttpResponse
 from products.models import Product
 import json
 
-
 """lesson 4 - Fetching data from models, using JsonResponse"""
 # def api_home(request, *args, **kwargs):
 #     model_data = Product.objects.all().order_by("?").first()

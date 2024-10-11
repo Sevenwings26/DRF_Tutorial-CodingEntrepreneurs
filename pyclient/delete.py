@@ -10,6 +10,6 @@ except:
 
 if product_id:
     endpoint = "http://127.0.0.1:8000/api/products/{product_id}/delete/"
-    get_response = requests.get(endpoint)
+    get_response = requests.delete(endpoint)
     # print(get_response.status_code, get_response.status_code==204)
-    print(get_response.json())
+    # print(get_response.json())

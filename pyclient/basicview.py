@@ -32,6 +32,12 @@ with open(filepath, mode="w") as file_obj:
         12. Mixins and a Generic API View
                    
                 'AUTHENTICATION & PERMISSIONS' 
+        1. Permissions.IsAuthenticated
+        2. User & Group Permissions with DJangoModelPermissions
+        3. Custom Permissions
+                   
+                'TOKEN AUTHENTICATIONS' - 2:45:00
+        1. 
  """)
 
 
